@@ -1,13 +1,7 @@
-<table align="center">
-  <tr>
-    <td width="72" valign="middle">
-      <img src="imgs/pami.png" alt="GMT Logo" width="72">
-    </td>
-    <td valign="middle">
-      <h1 style="font-size: 2.4em; margin: 0;"><sup>GMT: Effective Global Framework for Multi-Camera Multi-Target Tracking</sup></h1>
-    </td>
-  </tr>
-</table>
+<h1 align="center">
+  <img src="imgs/pami.png" alt="GMT Logo" width="48" style="vertical-align: bottom; margin-right: 8px;">
+  GMT: Effective Global Framework for Multi-Camera Multi-Target Tracking
+</h1>
 
 <p align="center">
   This repository is the official implementation of the <strong>CVPR 2026</strong> paper:
