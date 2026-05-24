@@ -1,11 +1,10 @@
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>
-    <td valign="middle">
-      <img src="imgs/pami.png" alt="GMT Logo" width="48">
+    <td valign="middle" style="border: none; padding: 0 6px 0 0;">
+      <img src="imgs/pami.png" alt="GMT Logo" width="60">
     </td>
-    <td>&nbsp;&nbsp;</td>
-    <td valign="middle">
-      <h1>
+    <td valign="middle" style="border: none; padding: 0;">
+      <h1 style="margin: 0;">
         GMT: Effective Global Framework for<br>
         Multi-Camera Multi-Target Tracking
       </h1>
