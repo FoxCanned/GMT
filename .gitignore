@@ -16,6 +16,8 @@ dist/
 .eggs/
 pip-wheel-metadata/
 
+third_party/
+
 # Testing and tooling caches
 .pytest_cache/
 .mypy_cache/
