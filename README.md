@@ -12,7 +12,7 @@
 
 
 ## To-Do
-* Release the VisionTrack dataset.
+* ~~Release the VisionTrack dataset.~~
 * Provide training tutorials for custom datasets.
 
 ## ⚙️ Install the environment
@@ -27,6 +27,8 @@ After installing the base environment, install Detectron2 following [Detectron2 
 Then, replace the file `detectron2/evaluation/evaluator.py` in your Detectron2 installation with [evaluator.py](evaluator.py).
 
 ## ⚙️ Data Preparation
+**Download the VisionTrack dataset with [OneDrive](https://1drv.ms/f/c/140da35392af8a02/IgDNvJW9-F38TarElt0BdQBKAao2JsGNS-QhkGn9Vxx3VM4?e=TaLSnf) or [BaiduNetdisk](https://pan.baidu.com/s/1v9xkmGcqCeJYUpR3nUDliA?pwd=GMTT) (Code: GMTT)**
+
 Put the tracking datasets in ./datasets. 
 
 Run the [creat_json.py](creat_json.py) to generate annotation files for each dataset. The final data structure should look like this:
@@ -51,6 +53,8 @@ VisionTrack dataset will be released soon.
 
 ## 🚀 Training
 **Take VisionTrack as an example**
+
+**Download the pre-trained backbone weight with [OneDrive](https://1drv.ms/u/c/140da35392af8a02/IQBWux32auATTLNeQZ1x68FzATWKfCUEggQ9tfkRTKcdcAk?e=xRUNXC) or [BaiduNetdisk](https://pan.baidu.com/s/1yQMlVejqPtsAs2HpuF3maw?pwd=GMTT) (Code: GMTT)**
 
 Stage1:
 
