@@ -16,7 +16,6 @@ dist/
 .eggs/
 pip-wheel-metadata/
 
-third_party/
 
 # Testing and tooling caches
 .pytest_cache/
@@ -47,8 +46,7 @@ runs/
 wandb/
 
 # Local datasets and generated data
-datasets/
-data/
+
 
 # Model checkpoints and large binary artifacts
 *.pth
