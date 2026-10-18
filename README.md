@@ -31,7 +31,7 @@ Then, replace the file `detectron2/evaluation/evaluator.py` in your Detectron2 i
 
 Put the tracking datasets in ./datasets. 
 
-Run the [creat_json.py](creat_json.py) to generate annotation files for each dataset. The final data structure should look like this:
+Download the annotation files for the datasets used in our paper with [OneDrive](https://1drv.ms/u/c/02835365baf5ae4a/IQAUS5Jkw3U4QbZB9udRNWgjAYMv2AhbhflY31qaITLsqZA?e=vNlpiE) or [BaiduNetdisk](https://pan.baidu.com/s/1fgzF9qij-IzHBgXfxaF-Pw?pwd=GMTT) (Code: GMTT). The final data structure should look like this:
    ```
    ${PROJECT_ROOT}
     -- datasets
