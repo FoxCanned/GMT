@@ -1,0 +1,5 @@
+opencv-python
+timm
+lvis
+lap
+scipy
